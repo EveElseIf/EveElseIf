@@ -1,4 +1,10 @@
 ### Hi there 👋
+I am a fun of Pastel*Palettes, which is my favorite band.
+
+I am an undergradute student studying in Department of Industrial Engineering, Tsinghua University.
+
+I love coding, but it's not my main subject. I mainly work with some utils, hope my works could help you.
+
 <a href="https://github.com/EveElseIf">
   <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=EveElseIf&show_icons=true&include_all_commits=true&hide_title=true" />
 </a>

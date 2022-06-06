@@ -1,4 +1,10 @@
 ### Hi there 👋
+<a href="https://github.com/EveElseIf">
+  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=EveElseIf&show_icons=true&include_all_commits=true" />
+</a>
+<a href="https://github.com/EveElseIf">
+  <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EveElseIf&layout=compact" />
+</a>
 
 <!--
 **EveElseIf/EveElseIf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
